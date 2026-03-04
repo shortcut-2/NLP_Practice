@@ -4,7 +4,8 @@
 
 # 1. 데이터 선정
 ## 1-1. 데이터 소개
-- 데이터 건수 등
+- AI Hub의 [채용면접 인터뷰 데이터](https://aihub.or.kr/aihubdata/data/view.do?pageIndex=3&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM002&aihubDataSe=data&dataSetSn=71592) 활용
+
 
 # 2. 데이터 전처리
 ## 2-1. 기초 전처리 (🏃**진행 중**)

@@ -1,0 +1,6 @@
+# rawdata 제외
+data/rawdata/
+
+# 파일 제외
+*.json
+*.csv
