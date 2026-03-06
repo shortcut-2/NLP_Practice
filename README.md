@@ -18,3 +18,11 @@
 ## 2-3. WordEmbedding 기반 텍스트 분석 연습 (대기)
 - Word Embedding model을 이용하여 벡터화
 - 입력된 문자열의 긍/부정을 판단(유사도 활용)
+
+# 3. 실습
+## 3-1. Word Embedding을 활용한 단어 찾기 게임
+- Level 1. [Semantle](https://semantle.com/) 흉내내기
+- Level 2. Semantle의 한국어 버전을 만들어보기
+- Level 3. 단어 A:B=C:? 여기서 ? 맞추기 (한국어 임베딩 [확인](https://word2vec.kr/search/) + Semantle)
+
+## 3-2. 네이버 영화리뷰 감성 분석
