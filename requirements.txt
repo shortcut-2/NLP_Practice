@@ -29,7 +29,6 @@ debugpy==1.8.20
 decorator==5.2.1
 defusedxml==0.7.1
 emoji==1.2.0
-en_core_web_sm==3.8.0
 executing==2.2.1
 fastjsonschema==2.21.2
 fasttext-wheel==0.9.2
